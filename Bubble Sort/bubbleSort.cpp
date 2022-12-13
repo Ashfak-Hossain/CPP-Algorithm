@@ -11,7 +11,7 @@ void swap(int numbers[], int i, int j)
     numbers[j] = temp;
 
     // numbers[a] ^= numbers[b];
-    // numbers[b] ^= numbers[a];  // Another way For Swap two integers
+    // numbers[b] ^= numbers[a];  // Another way For Swap two integers between (a and b)
     // numbers[a] ^= numbers[b];
 }
 
